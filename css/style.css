@@ -407,8 +407,8 @@ ul {
 }
 
 .client-link {
-  width: 170px;
-  height: 92px;
+  /* width: 170px;
+  height: 92px; */
   border-radius: 2px;
   display: flex;
   align-items: center;
